@@ -2,6 +2,9 @@
 
 appraise "rack_2" do
   gem "rack", "~> 2.0"
+
+eappraise "rack_3" do
+  gem "rack", "~> 3.0"
 end
 
 appraise "rack_1" do
